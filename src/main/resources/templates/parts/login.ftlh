@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div>
-                <div class="g-recaptcha" data-sitekey="6LdEFd4ZAAAAAK_RO8_VeRTZtaljInO9bqCEyae2"></div>
+                <div class="g-recaptcha" data-sitekey=""></div>
                 <#if captchaError??>
                     <div class="alert alert-danger" role="alert">
                         ${captchaError}
